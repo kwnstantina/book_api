@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rCHPRLhE2o7XpAN3RJOEWRIH58cRt8ltAQoUm+MJH7yJsFUESd4TJ/xtMG6/wZq2V03pX78WD1t+zqNqRqsJqA==",
+  "dgSpecHash": "vF7an6z3ztyFKqrtCPe6CRQX472YA8lAEvfNoCWIijIBwC5/4n84zPIg8g2W/vtxH154VxKY+3Aw4qcB1AnGCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kwnst\\source\\repos\\BookApi\\BookAPI.csproj",
+  "projectFilePath": "C:\\Users\\kwnst\\source\\repos\\book_api\\BookAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kwnst\\.nuget\\packages\\ardalis.guardclauses\\4.0.1\\ardalis.guardclauses.4.0.1.nupkg.sha512",
     "C:\\Users\\kwnst\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
@@ -42,8 +42,7 @@
     "C:\\Users\\kwnst\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\kwnst\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\kwnst\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
-    "C:\\Users\\kwnst\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\kwnst\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+    "C:\\Users\\kwnst\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []
 }

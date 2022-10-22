@@ -1333,26 +1333,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kwnst\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\kwnst\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kwnst\\source\\repos\\BookApi\\BookAPI.csproj",
+      "projectUniqueName": "C:\\Users\\kwnst\\source\\repos\\book_api\\BookAPI.csproj",
       "projectName": "BookAPI",
-      "projectPath": "C:\\Users\\kwnst\\source\\repos\\BookApi\\BookAPI.csproj",
+      "projectPath": "C:\\Users\\kwnst\\source\\repos\\book_api\\BookAPI.csproj",
       "packagesPath": "C:\\Users\\kwnst\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kwnst\\source\\repos\\BookApi\\obj\\",
+      "outputPath": "C:\\Users\\kwnst\\source\\repos\\book_api\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\kwnst\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1417,12 +1410,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.13, 5.0.13]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -1431,7 +1418,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
